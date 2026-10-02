@@ -1,0 +1,23 @@
+# Core
+numpy>=1.24.0
+pandas>=2.0.0
+
+# NLP
+transformers>=4.35.0
+torch>=2.0.0
+datasets>=2.14.0
+
+# Data Sources
+gdeltdoc>=1.4.0
+requests>=2.31.0
+
+# API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Dashboard
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# Testing
+pytest>=7.4.0
