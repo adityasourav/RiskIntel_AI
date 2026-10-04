@@ -1,0 +1,92 @@
+[
+  {
+    "source": "news",
+    "timestamp": "2026-10-01T10:00:00Z",
+    "text": "US announces new tariffs on Chinese imports. Markets react negatively.",
+    "title": "US announces new tariffs on Chinese imports",
+    "entity": "US",
+    "url": "http://example.com/news/1",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-02T11:00:00Z",
+    "text": "Federal Reserve raises interest rates by 50 basis points to combat inflation.",
+    "title": "Federal Reserve raises interest rates by 50 basis points",
+    "entity": "Federal Reserve",
+    "url": "http://example.com/news/2",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-03T09:30:00Z",
+    "text": "Apple reports stronger-than-expected Q3 earnings, sending stock soaring.",
+    "title": "Apple reports stronger-than-expected Q3 earnings",
+    "entity": "Apple",
+    "url": "http://example.com/news/3",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-04T14:15:00Z",
+    "text": "Major bank faces regulatory investigation over mortgage lending practices.",
+    "title": "Major bank faces regulatory investigation",
+    "entity": "Major Bank",
+    "url": "http://example.com/news/4",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-05T08:45:00Z",
+    "text": "Oil prices surge amid Middle East tensions, causing concern for global supply.",
+    "title": "Oil prices surge amid Middle East tensions",
+    "entity": "Oil",
+    "url": "http://example.com/news/5",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-06T13:00:00Z",
+    "text": "European Central Bank signals rate cut as economic growth slows.",
+    "title": "European Central Bank signals rate cut",
+    "entity": "European Central Bank",
+    "url": "http://example.com/news/6",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-07T16:20:00Z",
+    "text": "Tech giant announces $10B acquisition of AI startup.",
+    "title": "Tech giant announces $10B acquisition",
+    "entity": "Tech Giant",
+    "url": "http://example.com/news/7",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-08T09:10:00Z",
+    "text": "Credit rating agency downgrades major corporation due to debt levels.",
+    "title": "Credit rating agency downgrades major corporation",
+    "entity": "Major Corporation",
+    "url": "http://example.com/news/8",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-08T11:40:00Z",
+    "text": "New trade agreement signed between US and EU, boosting cross-border commerce.",
+    "title": "New trade agreement signed between US and EU",
+    "entity": "US",
+    "url": "http://example.com/news/9",
+    "metadata": {}
+  },
+  {
+    "source": "news",
+    "timestamp": "2026-10-08T15:55:00Z",
+    "text": "Company announces major product recall following safety concerns.",
+    "title": "Company announces major product recall",
+    "entity": "Company",
+    "url": "http://example.com/news/10",
+    "metadata": {}
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "portfolio_name": "RiskIntel Synthetic Portfolio",
+  "total_value": 10000000,
+  "currency": "USD",
+  "assets": [
+    {"name": "Corporate Loan A", "type": "Loan", "value": 2000000, "sector": "Financial Services"},
+    {"name": "Corporate Loan B", "type": "Loan", "value": 1500000, "sector": "Technology"},
+    {"name": "Government Bond", "type": "Bond", "value": 2000000, "sector": "Government"},
+    {"name": "Corporate Bond", "type": "Bond", "value": 1500000, "sector": "Energy"},
+    {"name": "Equity Portfolio", "type": "Equity", "value": 2000000, "sector": "Diversified"},
+    {"name": "Derivative A", "type": "Derivative", "value": 1000000, "sector": "Financial Services"}
+  ]
+}
