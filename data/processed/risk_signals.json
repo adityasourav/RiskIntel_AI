@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2026-10-08T20:14:52.464625+00:00",
+    "source": "news",
+    "entity": "US",
+    "original_text": "US announces new tariffs on Chinese imports, raising concerns about global trade disruption and potential retaliatory measures.",
+    "clean_text": "us announces new tariffs on chinese imports, raising concerns about global trade disruption and potential retaliatory measures.",
+    "sentiment_score": -0.85,
+    "sentiment_label": "negative",
+    "event_type": "Geopolitical",
+    "event_confidence": 0.85,
+    "impact_score": 7.9,
+    "risk_level": "HIGH",
+    "impact_components": {
+      "event_severity": 9.0,
+      "sentiment_magnitude": 8.5,
+      "entity_importance": 9,
+      "keyword_urgency": 4.0
+    }
+  },
+  {
+    "timestamp": "2026-10-08T20:14:52.465123+00:00",
+    "source": "news",
+    "entity": "Federal Reserve",
+    "original_text": "Federal Reserve raises interest rates by 50 basis points amid persistent inflation concerns.",
+    "clean_text": "federal reserve raises interest rates by 50 basis points amid persistent inflation concerns.",
+    "sentiment_score": -0.75,
+    "sentiment_label": "negative",
+    "event_type": "Macroeconomic",
+    "event_confidence": 0.85,
+    "impact_score": 7.6,
+    "risk_level": "HIGH",
+    "impact_components": {
+      "event_severity": 8.0,
+      "sentiment_magnitude": 7.5,
+      "entity_importance": 10,
+      "keyword_urgency": 4.0
+    }
+  },
+  {
+    "timestamp": "2026-10-08T20:14:52.465650+00:00",
+    "source": "news",
+    "entity": "Apple",
+    "original_text": "Apple reports stronger-than-expected Q3 earnings, revenue up 12% year-over-year.",
+    "clean_text": "apple reports stronger-than-expected q3 earnings, revenue up 12% year-over-year.",
+    "sentiment_score": 0.85,
+    "sentiment_label": "positive",
+    "event_type": "Earnings and Financial Results",
+    "event_confidence": 0.85,
+    "impact_score": 6.25,
+    "risk_level": "MEDIUM",
+    "impact_components": {
+      "event_severity": 5.0,
+      "sentiment_magnitude": 8.5,
+      "entity_importance": 8,
+      "keyword_urgency": 4.0
+    }
+  },
+  {
+    "timestamp": "2026-10-08T20:14:52.465986+00:00",
+    "source": "social",
+    "entity": "Tesla",
+    "original_text": "$TSLA stock crashing after massive recall announcement, investors fleeing",
+    "clean_text": "tsla stock crashing after massive recall announcement, investors fleeing",
+    "sentiment_score": -0.85,
+    "sentiment_label": "negative",
+    "event_type": "Market and Financial",
+    "event_confidence": 0.85,
+    "impact_score": 6.2,
+    "risk_level": "MEDIUM",
+    "impact_components": {
+      "event_severity": 7.0,
+      "sentiment_magnitude": 8.5,
+      "entity_importance": 5.0,
+      "keyword_urgency": 4.0
+    }
+  },
+  {
+    "timestamp": "2026-10-08T20:14:52.466413+00:00",
+    "source": "news",
+    "entity": "Unknown",
+    "original_text": "Major credit rating agency downgrades three large European banks citing liquidity concerns.",
+    "clean_text": "major credit rating agency downgrades three large european banks citing liquidity concerns.",
+    "sentiment_score": -0.75,
+    "sentiment_label": "negative",
+    "event_type": "Credit Event",
+    "event_confidence": 0.85,
+    "impact_score": 6.52,
+    "risk_level": "MEDIUM",
+    "impact_components": {
+      "event_severity": 8.5,
+      "sentiment_magnitude": 7.5,
+      "entity_importance": 5.0,
+      "keyword_urgency": 4.0
+    }
+  }
+]

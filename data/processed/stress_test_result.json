@@ -1,0 +1,62 @@
+{
+  "triggered": true,
+  "event_type": "Geopolitical",
+  "impact_score": 7.9,
+  "risk_level": "HIGH",
+  "scenario_name": "Geopolitical Stress Scenario",
+  "portfolio_before": 10000000,
+  "portfolio_after": 9545750.0,
+  "total_loss": 454250.0,
+  "loss_percentage": 4.5425,
+  "asset_impacts": [
+    {
+      "asset_name": "Corporate Loan A",
+      "asset_type": "Loan",
+      "value_before": 2000000,
+      "value_after": 1921000.0,
+      "change": -79000.0,
+      "change_pct": -3.95
+    },
+    {
+      "asset_name": "Corporate Loan B",
+      "asset_type": "Loan",
+      "value_before": 1500000,
+      "value_after": 1440750.0,
+      "change": -59250.0,
+      "change_pct": -3.95
+    },
+    {
+      "asset_name": "Government Bond",
+      "asset_type": "Bond",
+      "value_before": 2000000,
+      "value_after": 2031600.0,
+      "change": 31600.0,
+      "change_pct": 1.58
+    },
+    {
+      "asset_name": "Corporate Bond",
+      "asset_type": "Bond",
+      "value_before": 1500000,
+      "value_after": 1405200.0,
+      "change": -94800.0,
+      "change_pct": -6.32
+    },
+    {
+      "asset_name": "Equity Portfolio",
+      "asset_type": "Equity",
+      "value_before": 2000000,
+      "value_after": 1842000.0,
+      "change": -158000.0,
+      "change_pct": -7.9
+    },
+    {
+      "asset_name": "Derivative A",
+      "asset_type": "Derivative",
+      "value_before": 1000000,
+      "value_after": 905200.0,
+      "change": -94800.0,
+      "change_pct": -9.48
+    }
+  ],
+  "timestamp": "2026-10-09T01:44:52.879630"
+}
