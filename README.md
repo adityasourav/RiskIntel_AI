@@ -1,9 +1,9 @@
 # RiskIntel AI — S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Aditya Saurav  
-**College Email ID:** [your_id@college.ac.in]  
-**College / Campus:** [Your College Name]  
-**Demo Video Link:** [YouTube / Unlisted]  
+**College Email ID:** [btech60105.23@bitmesra.ac.in]  
+**College / Campus:** [Birla Institute of Technology Mesra]  
+**Demo Video Link:** [https://youtu.be/zGHaMuyweM0]  
 **Slide Deck Link (if hosted externally):** [Slide Deck Link / See docs/presentation.pdf](docs/presentation.pdf)  
 
 ---
@@ -152,7 +152,6 @@ Asset Impacts:
   - **Slide 6: Domain Impact** - Institutional value, Basel/Dodd-Frank compliance, target personas
   - **Slide 7: Limitations & Next Steps** - Assumptions, scope boundaries, enterprise roadmap
 - **Slide Previews:** High-resolution slide images available in [`docs/slides/`](docs/slides/)
-- **Pipeline Architecture Diagram:** [`docs/pipeline_flowchart.png`](docs/pipeline_flowchart.png) (Executive vertical pipeline flowchart)
 - **Component System Diagram:** [`docs/architecture.png`](docs/architecture.png) (300 DPI high-resolution visual system flow)
 
 ---
